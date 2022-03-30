@@ -1,0 +1,2 @@
+# MultiMath
+simple Typescript application
